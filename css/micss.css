@@ -1,0 +1,27 @@
+.fila-style {
+    padding: 10px;
+    text-align: center;
+
+    
+}
+.fila-style .col-4 .container-button {
+
+    display: inline-block;
+}
+
+.fila-style .col-4 .container-button .style-base-button {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    border: solid 1px;
+    border-radius: 10%;
+    align-content: center;
+}
+.fila-style .col-4 .container-button .style-base-button img {
+    width: 100%;
+    max-height: auto;
+}
+
+.fila-style .col-4 .container-button .style-base-button:hover {
+    background-color: blue;
+}
